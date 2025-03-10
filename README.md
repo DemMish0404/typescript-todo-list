@@ -1,28 +1,21 @@
-# New Project
+# TYPESCRIPT TODO LIST 
+ мини пет проект создан чтобы отработать работу с typesctipt и локальным хранилищем + в проекте использована библиотека с уникальными id 
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+## Запуск проекта
 
-## Available Scripts
+1) скачиваем проект
 
-### npm start
+2) разархифивируем его
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+3) открываем проект в удобном вам терминале
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+4) в терминале пишем команду: ` npm install `. Эта команда скачает все необходимые зависимости для того чтобы проект запустился
 
-### npm run build
+5) в терминале пишем команду: ` npm run start ` . После написания команды вам будет показана ссылка
 
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
-
-**For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.mjs` config file.
-
-### Q: What about Eject?
-
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+6) открываете ссылку в своем браузере
 
 
 
-# прикол в том что с библиотеками стандартный TypeScript не работает и нужны bundler'ы (сборщики: webpack или этот. у этого сборщика есть готовый шаблон для TypeSctipt )
+
+## прикол в том что с библиотеками стандартный TypeScript не работает и нужны bundler'ы (сборщики: webpack или этот. у этого сборщика есть готовый шаблон для TypeSctipt )
