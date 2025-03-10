@@ -25,4 +25,4 @@ No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
 
 
 
-# приколь в том что 
+# прикол в том что с библиотеками стандартный TypeScript не работает и нужны bundler'ы (сборщики: webpack или этот. у этого сборщика есть готовый шаблон для TypeSctipt )
